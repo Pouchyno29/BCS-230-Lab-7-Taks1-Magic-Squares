@@ -16,4 +16,4 @@ Your program should simulate a magic square using   
 two-dimensional 3x3 array. It should have a Boolean    
 function isMagicSquare that accepts the array as an argument    
 and returns true if it is determines it is a Magic square and    
-false it not as shown in the shell code bellow.
+false if it is not.
